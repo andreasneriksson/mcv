@@ -1,0 +1,55 @@
+
+FILE: /mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Dice.php
+-----------------------------------------------------------------------------
+FOUND 4 ERRORS AFFECTING 4 LINES
+-----------------------------------------------------------------------------
+ 21 | ERROR | Method name "Dice::set_sides" is not in camel caps format
+ 29 | ERROR | Method name "Dice::get_sides" is not in camel caps format
+ 34 | ERROR | Method name "Dice::get_last_throw" is not in camel caps format
+ 41 | ERROR | Method name "Dice::throw_dice" is not in camel caps format
+-----------------------------------------------------------------------------
+
+
+FILE: /mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/DiceHand.php
+-----------------------------------------------------------------------------------
+FOUND 6 ERRORS AFFECTING 6 LINES
+-----------------------------------------------------------------------------------
+ 22 | ERROR | Method name "DiceHand::set_dice_amount" is not in camel caps format
+ 36 | ERROR | Method name "DiceHand::get_dice_amount" is not in camel caps format
+ 41 | ERROR | Method name "DiceHand::get_dice" is not in camel caps format
+ 46 | ERROR | Method name "DiceHand::get_last_results" is not in camel caps format
+ 53 | ERROR | Method name "DiceHand::get_last_result" is not in camel caps format
+ 62 | ERROR | Method name "DiceHand::throw_dice" is not in camel caps format
+-----------------------------------------------------------------------------------
+
+
+FILE: /mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php
+------------------------------------------------------------------------------------------
+FOUND 14 ERRORS AFFECTING 14 LINES
+------------------------------------------------------------------------------------------
+   5 | ERROR | The file-level docblock must follow the opening PHP tag in the file header
+  28 | ERROR | Method name "Game::set_dice_amount" is not in camel caps format
+  35 | ERROR | Method name "Game::set_winner" is not in camel caps format
+  48 | ERROR | Method name "Game::get_hand" is not in camel caps format
+  53 | ERROR | Method name "Game::get_dice_amount" is not in camel caps format
+  58 | ERROR | Method name "Game::get_player_wins" is not in camel caps format
+  63 | ERROR | Method name "Game::get_pc_wins" is not in camel caps format
+  68 | ERROR | Method name "Game::get_player_points" is not in camel caps format
+  73 | ERROR | Method name "Game::get_pc_points" is not in camel caps format
+  78 | ERROR | Method name "Game::get_winner" is not in camel caps format
+  86 | ERROR | Method name "Game::clear_winner" is not in camel caps format
+  91 | ERROR | Method name "Game::throw_dice" is not in camel caps format
+ 106 | ERROR | Method name "Game::play__pc" is not in camel caps format
+ 128 | ERROR | Method name "Game::next_round" is not in camel caps format
+------------------------------------------------------------------------------------------
+
+
+FILE: /mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/GraphicalDice.php
+-----------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+-----------------------------------------------------------------------------------
+ 16 | ERROR | Method name "GraphicalDice::render_dice" is not in camel caps format
+-----------------------------------------------------------------------------------
+
+Time: 642ms; Memory: 8MB
+

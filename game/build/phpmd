@@ -1,0 +1,46 @@
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Dice.php:9	The property $last_throw is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Dice.php:21	The method set_sides is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Dice.php:29	The method get_sides is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Dice.php:34	The method get_last_throw is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Dice.php:41	The method throw_dice is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/DiceHand.php:9	The property $dice_sides is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/DiceHand.php:9	The property $dice_amount is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/DiceHand.php:15	The parameter $dice_amount is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/DiceHand.php:15	The variable $dice_amount is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/DiceHand.php:22	The parameter $dice_amount is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/DiceHand.php:22	The variable $dice_amount is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/DiceHand.php:22	The variable $dice_amount is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/DiceHand.php:22	The method set_dice_amount is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/DiceHand.php:36	The method get_dice_amount is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/DiceHand.php:41	The method get_dice is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/DiceHand.php:46	The method get_last_results is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/DiceHand.php:53	The method get_last_result is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/DiceHand.php:62	The method throw_dice is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:13	The property $player_points is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:13	The property $player_wins is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:13	The property $pc_points is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:13	The property $pc_wins is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:13	The property $dice_amount is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:28	The parameter $dice_amount is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:28	The variable $dice_amount is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:28	The variable $dice_amount is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:28	The method set_dice_amount is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:35	The parameter $winner_name is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:35	The variable $winner_name is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:35	The variable $winner_name is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:35	The method set_winner is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:40	The method set_winner uses an else expression. Else clauses are basically not necessary and you can simplify the code by not using them.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:48	The method get_hand is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:53	The method get_dice_amount is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:58	The method get_player_wins is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:63	The method get_pc_wins is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:68	The method get_player_points is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:73	The method get_pc_points is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:78	The method get_winner is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:86	The method clear_winner is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:91	The method throw_dice is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:106	The method play__pc is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/Game.php:128	The method next_round is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Game/GraphicalDice.php:16	The method render_dice is not named in camelCase.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Router/Router.php:21	The method dispatch() has a Cyclomatic Complexity of 30. The configured cyclomatic complexity threshold is 10.
+/mnt/c/Users/andre/dbwebb-kurser/mvc/me/game/src/Router/Router.php:75	Missing class import via use statement (line '75', column '41').
